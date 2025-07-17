@@ -3,3 +3,6 @@ beautifulsoup4
 selenium
 pandas
 
+To install required libraries:
+pip install -r requirements.txt
+
